@@ -1,4 +1,4 @@
-## Aspects of Space: Quantitative Evidence and Fictional Worlds
+## Aspects of Space: Quantitative Approaches to Fictional Worlds
 
 This repo contains the source code for my dissertation.
 
@@ -12,7 +12,7 @@ After this you can install required python packages using the following command.
 
 Then you should be able to run the notebooks in the notebooks folder using jupyter or colab.
 
-To run the Colab notebooks, go to https://colab.research.google.com/, select "GitHub" from the left sidebar menu, for the GitHub URL enter: "https://github.com/katrinrohrb/aspects-space". 
+To run the Colab notebooks, go to https://colab.research.google.com/, select "GitHub" from the left sidebar menu, for the GitHub URL enter: ```https://github.com/katrinrohrb/aspects-space``` 
 
 ## Directories 
 
